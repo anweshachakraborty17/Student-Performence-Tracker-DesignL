@@ -1,0 +1,2 @@
+# Student-Performence-Tracker-DesignL
+Student Performance Tracker is a web-based application developed using HTML, CSS, JavaScript, PHP and MySQL Database. This application provides an easy way to student in searching the details of their academic attendance and marks percentage details the with graph and meritlist. Students can search their academic performance and details of student’s attendance and marks percentages are added by admin.
